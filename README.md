@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction Using Machine Learning
+# Heart Disease Prediction Using Machine Learning
 
 ## Project Overview
 This project predicts the likelihood of heart disease using a Decision Tree Classifier trained on the UCI Cleveland Heart Disease dataset. It includes data preprocessing, feature scaling, model training, evaluation, feature importance analysis, and prediction.
